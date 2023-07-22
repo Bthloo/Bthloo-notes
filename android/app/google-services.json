@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "812798582481",
+    "project_id": "bthloobotes",
+    "storage_bucket": "bthloobotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812798582481:android:82aba20afbf58dc6c2eff0",
+        "android_client_info": {
+          "package_name": "com.example.bnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812798582481-b895r644q0l2vi54v4sbptqkv2alka84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEprV-Nn4omq5qXSdGTF71_5QC6T_3tPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812798582481-b895r644q0l2vi54v4sbptqkv2alka84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812798582481-9dmijgvqrl2t69vj363cavh17j2kv9cc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bnotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
